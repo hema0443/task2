@@ -16,4 +16,6 @@
 
 *simulation*:
 
+![Image](https://github.com/user-attachments/assets/7dc0ba7e-de77-455f-b19f-d1e7e2686529)
+
 
