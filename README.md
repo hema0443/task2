@@ -12,7 +12,7 @@
 
 *MENTOR*:NEELA SANTOSH
 
-** In my task2 I have  written verilog code and test bench for a simple SYNCHRONOUS RAM MODULE with read and write operations and I have used edaplayground for writing code and for the simulation of code and In edaplayground I have used simulator as Icarus verilog 12.0 and I have choosed run option as open EPWave after run for the simulation.** **
+** In my task2 I have  written verilog code and test bench for a simple SYNCHRONOUS RAM MODULE with read and write operations and I have used edaplayground for writing code and for the simulation of code and In edaplayground I have used simulator as Icarus verilog 12.0 and I have choosed run option as open EPWave after run for the simulation.** 
 
 *simulation*:
 
